@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Eduardo Lira Tapia
+   # Eduardo Antonio Lira Tapia
 
    # Input:
    # p, principal amount
